@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hello everybody ! I want to become a real solve code problems. see ya.
